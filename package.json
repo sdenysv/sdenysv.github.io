@@ -1,5 +1,5 @@
 {
-  "name": "skvortsovden.github.io",
+  "name": "sdenysv.github.io",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skvortsovden/skvortsovden.github.io.git"
+    "url": "git+https://github.com/sdenysv/sdenysv.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skvortsovden/skvortsovden.github.io/issues"
+    "url": "https://github.com/sdenysv/sdenysv.github.io/issues"
   },
-  "homepage": "https://github.com/skvortsovden/skvortsovden.github.io#readme",
+  "homepage": "https://github.com/sdenysv/sdenysv.github.io#readme",
   "description": "",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.0",

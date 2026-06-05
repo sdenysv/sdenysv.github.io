@@ -27,6 +27,6 @@ variable "location" {
 variable "bucket_name" {
     description = "Name of the GCP storage bucket"
     type        = string
-    default     = "www.skvortsovden.pp.ua"
+    default     = "www.sdenysv.pp.ua"
   
 }

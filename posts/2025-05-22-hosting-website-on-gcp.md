@@ -4,7 +4,7 @@ date: 2025-05-22
 categories: web, cloud, devops
 ---
 
-I have [this website](https://skvortsovden.github.io/) hosted on GitHub Pages, but I decided to learn how to work with GCP, GitHub Actions, and Terraform.
+I have [this website](https://sdenysv.github.io/) hosted on GitHub Pages, but I decided to learn how to work with GCP, GitHub Actions, and Terraform.
 
 So, here we go!
 
@@ -362,11 +362,11 @@ One more thing to make it work with my DNS and GCP bucket: I have to **name my b
 
 Source: [https://cloud.google.com/storage/docs/hosting-static-website-http#create-bucket](https://cloud.google.com/storage/docs/hosting-static-website-http#create-bucket)
 
-Eventually, my website became available at [http://www.skvortsovden.pp.ua](http://www.skvortsovden.pp.ua)
+Eventually, my website became available at [http://www.sdenysv.pp.ua](http://www.sdenysv.pp.ua)
 
 ## Cloudflare
 
-Having my website accesible at `www` is ok, but I also want it to be accesible at root - `skvortsovden.pp.ua`.
+Having my website accesible at `www` is ok, but I also want it to be accesible at root - `sdenysv.pp.ua`.
 Also, I'd like to have SSL enabled.
 
 ### What is Cloudflare?
